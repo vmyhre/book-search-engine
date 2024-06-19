@@ -24,9 +24,9 @@
       },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/vmcguire6377/book-search-engine.git"
+      "url": "git+https://github.com/vmyhre/book-search-engine.git"
     },
     "bugs": {
-      "url": "https://github.com/vmcguire6377/book-search-engine/issues"
+      "url": "https://github.com/vmyhre/book-search-engine/issues"
     }
   }
